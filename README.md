@@ -28,6 +28,7 @@
 ## Future Implementations
 
  ### Image Search: 
+
     I intend to incorporate a search functionality that allows users to search for specific images based on keywords, categories, or other parameters provided by the Unsplash API.
 
 
