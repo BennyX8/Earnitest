@@ -3,31 +3,31 @@
 `Earnitest` software application is a Flutter-based mobile application that demonstrates my development skills by loading and displaying grids of image data obtained from Unsplash APIs. It serves as a showcase to evaluate my proficiency in Flutter development.
 
 ## Key Implementations and Approaches
-###     Code Structure
+### Code Structure
     The stucture and implementation of this project closely follows the Clean Architecture principle that promotes separation of concerns and modularization to build maintainable and scalable applications. It helps in achieving code organization, testability, and flexibility. 
 
-###     Image Loading: 
+### Image Loading: 
     The application utilizes the Unsplash APIs to fetch image data, such as URLs or metadata, from the Unsplash platform.
 
-###     Grid Display: 
+### Grid Display: 
     The fetched image data is presented in a visually appealing grid format within the application. Each grid item include a preview thumbnail or other relevant information.
 
-###     Pagination: 
+### Pagination: 
     To handle a potentially large amount of image data, this application implements pagination to load and display images in batches or as the user scrolls through the items.
 
-###     Short Image Details: 
+### Short Image Details: 
     Upon selecting an image from the grid, the application provide and enlarged detailed image and Photographer's name and a short description of the photo/image. 
 
-###     Error Handling: 
+### Error Handling: 
     A robust error handling and graceful fallback systems have been implemented to handle scenarios like network issues or API failures with clear error messages to ensure a seamless user experience.
 
-###     Custom Animation: 
+### Custom Animation: 
     I have implemented custom page routing and light animations across the application to improve the experience
 
 
 ## Future Implementations
 
-###     Image Search: 
+### Image Search: 
     I intend to incorporate a search functionality that allows users to search for specific images based on keywords, categories, or other parameters provided by the Unsplash API.
 
 
