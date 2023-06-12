@@ -21,11 +21,3 @@ This is a Flutter application
     a. I have optimize images loading by utilizing the smaller or thumbnail sizes supplied by the Unsplash API without compromising quality.
 
     b. I implemented fast_cached_network_image to efficiently cache and load remote images.
-
-Implement caching strategies using libraries like dio or http to cache responses and reduce server round-trips.
-Performance Profiling:
-Use Flutter DevTools or profiling tools like flutter_bloc or flutter_redux_dev_tools to identify performance bottlenecks.
-Optimize slow-performing widgets or operations identified during profiling.
-Code Analysis and Optimization:
-Use tools like dart analyze and dartfmt to identify and fix code issues and ensure code consistency.
-Optimize heavy computations or algorithms by using efficient data structures or algorithms.
