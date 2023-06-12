@@ -1,5 +1,4 @@
 import 'package:dartz/dartz.dart';
-import 'package:earnitest/features/gallery/domain/entities/photo.dart';
 import 'package:earnitest/features/gallery/domain/repository/gallery_repository.dart';
 import 'package:earnitest/features/gallery/domain/usecases/get_photos.dart';
 import 'package:flutter_test/flutter_test.dart';
