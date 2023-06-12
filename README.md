@@ -4,24 +4,31 @@
 
 ## Key Implementations and Approaches
 ### Code Structure
+    
     The stucture and implementation of this project closely follows the Clean Architecture principle that promotes separation of concerns and modularization to build maintainable and scalable applications. It helps in achieving code organization, testability, and flexibility. 
 
 ### Image Loading: 
+    
     The application utilizes the Unsplash APIs to fetch image data, such as URLs or metadata, from the Unsplash platform.
 
 ### Grid Display: 
+    
     The fetched image data is presented in a visually appealing grid format within the application. Each grid item include a preview thumbnail or other relevant information.
 
 ### Pagination: 
+    
     To handle a potentially large amount of image data, this application implements pagination to load and display images in batches or as the user scrolls through the items.
 
 ### Short Image Details: 
+    
     Upon selecting an image from the grid, the application provide and enlarged detailed image and Photographer's name and a short description of the photo/image. 
 
 ### Error Handling: 
+    
     A robust error handling and graceful fallback systems have been implemented to handle scenarios like network issues or API failures with clear error messages to ensure a seamless user experience.
 
 ### Custom Animation: 
+    
     I have implemented custom page routing and light animations across the application to improve the experience
 
 
