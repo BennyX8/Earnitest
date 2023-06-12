@@ -26,8 +26,8 @@ dev_dependencies:
   flutter_native_splash: ^2.3.1
   flutter_test:
     sdk: flutter
-  # mockito: ^5.4.2
-  mocktail: ^0.3.0
+  mockito: ^5.4.2
+  # mocktail: ^0.3.0
 
 flutter_launcher_icons:
   android: "launcher_icon"

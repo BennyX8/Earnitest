@@ -1,4 +1,4 @@
-import 'package:earnitest/features/gallery/data/models/photo_links_model.dart';
+import 'package:earnitest/features/gallery/domain/entities/photo_links.dart';
 
 import '../../../profile/domain/entities/user.dart';
 import 'collection.dart';
@@ -17,7 +17,7 @@ class Photo {
   final User user;
   final List<UserCollection> currentUserCollections;
   final Urls urls;
-  final PhotoLinksModel links;
+  final PhotoLinks links;
 
   const Photo({
     required this.id,
