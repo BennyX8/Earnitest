@@ -36,7 +36,7 @@ class EmptyListWidget extends StatelessWidget {
           //* Vertical Spacer
           const SizedBox(height: 15.0),
 
-          FilledButton(
+          TextButton(
             onPressed: () => onRefresh?.call(),
             child: const Text(
               'Reload',
